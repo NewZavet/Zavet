@@ -6,3 +6,9 @@
 
 > *git checkout master* - вернутся на новую версию
 
+![CUP](https://kartinki.pibig.info/uploads/posts/2023-04/thumbs/1680303863_kartinki-pibig-info-p-kartinki-rozovoe-utro-arti-1.jpg)
+
+
+
+
+
