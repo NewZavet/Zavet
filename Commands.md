@@ -14,3 +14,4 @@
 
 
 > **git chechout [branch_name]** - переход на ветку с именем ...
+> **git chechout [branch_name]** - переход на ветку с именем
