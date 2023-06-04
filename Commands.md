@@ -12,3 +12,4 @@
 
 > ***git branch [branch_name]*** - создать новую ветку с названием branch_name
 
+> *git branch -d [branch_name]* - удалить ветку
