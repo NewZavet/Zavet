@@ -13,4 +13,4 @@
 > ***git branch [branch_name]*** - создать новую ветку с названием branch_name
 
 
-> **git chechout [branch_name]** - переход на ветку с именем
+> **git chechout [branch_name]** - переход на ветку с именем где конфликт -_-
